@@ -46,7 +46,7 @@ Run the app on a simulator or connected iOS device.
 
 ### App Demo
 
-<img src="https://github.com/gabrielgonta/MoneyManagerIOS/Demo/Example.gif" width="300" height="700" alt="example">
+<img src="https://github.com/gabrielgonta/MoneyManagerIOS/blob/main/Demo/Example.gif" width="300" height="700" alt="example">
 
 ## Technical Details
 
@@ -60,4 +60,4 @@ User data is stored persistently using **DocumentsDirectory**, and **UserDefault
 
 ## Authors
 
-* **Andrea Sara** - *Initial work* - [MoneyManagerIOS](https://github.com/gabrielgonta/MoneyManagerIOS.git)
+* **Gabriel Gonta** - *Initial work* - [MoneyManagerIOS](https://github.com/gabrielgonta/MoneyManagerIOS.git)

@@ -1,4 +1,4 @@
-# 📝 MoneyManagerIOS - SwiftUI iOS App
+# 💸 MoneyManagerIOS - SwiftUI iOS App
 
 ## Description
 
